@@ -1,4 +1,4 @@
-# MUDA Liquidty Rail
+# MUDA Liquidity Rail
 The liquidity rail is a solution built on top of the Celo blockchain that enables real-time transactions among financial service companies, without the need for the currently used pre-funded float account to settle the transactions.
 
 
