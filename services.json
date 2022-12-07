@@ -1,1 +1,16 @@
-
+[
+    {
+        "service_id": 1,
+        "service_name": "MTN Mobile Money",
+        "provider:name": "mtn uganda",
+        "country": "UG",
+        "pay_address": "0xb1aa591c8Ef1c2b1AFA361ed10E3E6bA845c4bf4"
+    },
+    {
+        "service_id": 2,
+        "service_name": "MTN Airtime",
+        "provider:name": "mtn uganda",
+        "country": "UG",
+        "pay_address": "0xb1aa591c8Ef1c2b1AFA361ed10E3E6bA845c4bf4"
+    }
+]
