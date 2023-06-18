@@ -4,15 +4,15 @@
         "service_name": "MTN Mobile Money",
         "provider:name": "mtn uganda",
         "country": "UG",
-        "address": "0xb1aa591c8Ef1c2b1AFA361ed10E3E6bA845c4bf4",
-        "chain": "celo"
+        "address": "rUvSzZ81jtbTBwuMpBEExzQCooYL7xQfmj",
+        "chain": "XRP"
     },
     {
         "service_id": 2,
         "service_name": "MTN Airtime",
         "provider:name": "mtn uganda",
         "country": "UG",
-        "address": "0xb1aa591c8Ef1c2b1AFA361ed10E3E6bA845c4bf4",
-        "chain": "celo"
+        "address": "rUvSzZ81jtbTBwuMpBEExzQCooYL7xQfmj",
+        "chain": "XRP"
     }
 ]
